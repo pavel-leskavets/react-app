@@ -3,7 +3,7 @@
 	justify-content: space-around;
 }
 .main {
-	width: 390px;
+	width: 20%;
 	height: 400px;
 	display: flex;
 	align-content: space-between;
@@ -35,7 +35,7 @@
 
 .second, .third, .fourth {
 
-	width: 130px;
+	width: 85px;
 	height: 130px;
 	opacity: .8;
 	border: 1px solid white;

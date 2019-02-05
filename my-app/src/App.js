@@ -5,6 +5,7 @@ import minus from './minus.png';
 import './App.css'; 
 import ClickerSecond from './Clicker2';
 import ClickerThird from './Clicker3';
+import ClickerFourth from './Clicker3';
 
 
 
@@ -44,7 +45,7 @@ return (
 <div className="body"> 
 <ClickerSecond/>
 <ClickerThird/>
-
+<ClickerFourth/>
 
 <div className="main"> 
 <div className="text">{this.state.count}</div> 
